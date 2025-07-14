@@ -11,6 +11,7 @@
   "dependencies": {
     "@langchain/core": "^0.3.62",
     "@langchain/openai": "^0.5.18",
+    "cors": "^2.8.5",
     "langchain": "^0.3.29",
     "mem0ai": "^2.1.36",
     "next": "15.3.5",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/cors": "^2.8.19",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
